@@ -32,6 +32,7 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 | [industrial-instrumentation-simulator](https://github.com/<tu-usuario>/industrial-instrumentation-simulator) | 4-20 mA transmitter faults, FOPDT process models, PID anti-windup and live tuning comparison | Python, PID, 4-20 mA, Canvas HMI |
 | [industrial-maintenance-cmms](https://github.com/<tu-usuario>/industrial-maintenance-cmms) | Maintenance work orders, PM due list, spare parts, downtime events and OEE dashboard | Python, SQLite, REST API, HTML/JS |
 | [electro-pneumatic-press](https://github.com/<tu-usuario>/electro-pneumatic-press) | Two-hand controlled press with safety relay feedback, anti-tie-down logic and pneumatic cylinder sequence | S7-1200, SCL, Python, HTML/JS |
+| [iot-energy-monitoring](https://github.com/<tu-usuario>/iot-energy-monitoring) | MQTT-style industrial telemetry with tariff analysis, anomaly detection, cost/CO₂ KPIs and live dashboard | Python, MQTT-style broker, REST API, Canvas HMI |
 
 ## What I care about
 
@@ -42,7 +43,6 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 
 ## Currently building
 
-- IoT energy monitoring with MQTT-style telemetry.
 - More protocol bridges and realistic HMI/SCADA patterns.
 
 ## How to use this file
