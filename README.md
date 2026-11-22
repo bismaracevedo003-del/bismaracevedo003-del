@@ -31,6 +31,7 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 | [micro850-conveyor-automation](https://github.com/<tu-usuario>/micro850-conveyor-automation) | Sorting conveyor with photoeyes, diverter, counters, jam detection and Modbus TCP server | Micro850, Ladder, Modbus TCP, Python |
 | [industrial-instrumentation-simulator](https://github.com/<tu-usuario>/industrial-instrumentation-simulator) | 4-20 mA transmitter faults, FOPDT process models, PID anti-windup and live tuning comparison | Python, PID, 4-20 mA, Canvas HMI |
 | [industrial-maintenance-cmms](https://github.com/<tu-usuario>/industrial-maintenance-cmms) | Maintenance work orders, PM due list, spare parts, downtime events and OEE dashboard | Python, SQLite, REST API, HTML/JS |
+| [electro-pneumatic-press](https://github.com/<tu-usuario>/electro-pneumatic-press) | Two-hand controlled press with safety relay feedback, anti-tie-down logic and pneumatic cylinder sequence | S7-1200, SCL, Python, HTML/JS |
 
 ## What I care about
 
@@ -41,7 +42,6 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 
 ## Currently building
 
-- Electro-pneumatic press automation.
 - IoT energy monitoring with MQTT-style telemetry.
 - More protocol bridges and realistic HMI/SCADA patterns.
 
