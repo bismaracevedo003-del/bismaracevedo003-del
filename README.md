@@ -26,13 +26,13 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [scada-water-pumping](https://github.com/<tu-usuario>/scada-water-pumping) | Dual-pump water station with S7-1200 logic, Python process model, REST/WebSocket API and React SCADA dashboard | Siemens S7-1200, Node.js, React, MySQL |
-| [plc-motor-control-vfd](https://github.com/<tu-usuario>/plc-motor-control-vfd) | 4-20 mA VFD motor control with ramps, interlocks, fault latching and web HMI | S7-1200, SCL/Ladder, Python, HTML/JS |
-| [micro850-conveyor-automation](https://github.com/<tu-usuario>/micro850-conveyor-automation) | Sorting conveyor with photoeyes, diverter, counters, jam detection and Modbus TCP server | Micro850, Ladder, Modbus TCP, Python |
-| [industrial-instrumentation-simulator](https://github.com/<tu-usuario>/industrial-instrumentation-simulator) | 4-20 mA transmitter faults, FOPDT process models, PID anti-windup and live tuning comparison | Python, PID, 4-20 mA, Canvas HMI |
-| [industrial-maintenance-cmms](https://github.com/<tu-usuario>/industrial-maintenance-cmms) | Maintenance work orders, PM due list, spare parts, downtime events and OEE dashboard | Python, SQLite, REST API, HTML/JS |
-| [electro-pneumatic-press](https://github.com/<tu-usuario>/electro-pneumatic-press) | Two-hand controlled press with safety relay feedback, anti-tie-down logic and pneumatic cylinder sequence | S7-1200, SCL, Python, HTML/JS |
-| [iot-energy-monitoring](https://github.com/<tu-usuario>/iot-energy-monitoring) | MQTT-style industrial telemetry with tariff analysis, anomaly detection, cost/CO₂ KPIs and live dashboard | Python, MQTT-style broker, REST API, Canvas HMI |
+| [scada-water-pumping](https://github.com/bismaracevedo003-del/scada-water-pumping) | Dual-pump water station with S7-1200 logic, Python process model, REST/WebSocket API and React SCADA dashboard | Siemens S7-1200, Node.js, React, MySQL |
+| [plc-motor-control-vfd](https://github.com/bismaracevedo003-del/plc-motor-control-vfd) | 4-20 mA VFD motor control with ramps, interlocks, fault latching and web HMI | S7-1200, SCL/Ladder, Python, HTML/JS |
+| [micro850-conveyor-automation](https://github.com/bismaracevedo003-del/micro850-conveyor-automation) | Sorting conveyor with photoeyes, diverter, counters, jam detection and Modbus TCP server | Micro850, Ladder, Modbus TCP, Python |
+| [industrial-instrumentation-simulator](https://github.com/bismaracevedo003-del/industrial-instrumentation-simulator) | 4-20 mA transmitter faults, FOPDT process models, PID anti-windup and live tuning comparison | Python, PID, 4-20 mA, Canvas HMI |
+| [industrial-maintenance-cmms](https://github.com/bismaracevedo003-del/industrial-maintenance-cmms) | Maintenance work orders, PM due list, spare parts, downtime events and OEE dashboard | Python, SQLite, REST API, HTML/JS |
+| [electro-pneumatic-press](https://github.com/bismaracevedo003-del/electro-pneumatic-press) | Two-hand controlled press with safety relay feedback, anti-tie-down logic and pneumatic cylinder sequence | S7-1200, SCL, Python, HTML/JS |
+| [iot-energy-monitoring](https://github.com/bismaracevedo003-del/iot-energy-monitoring) | MQTT-style industrial telemetry with tariff analysis, anomaly detection, cost/CO₂ KPIs and live dashboard | Python, MQTT-style broker, REST API, Canvas HMI |
 
 ## What I care about
 
@@ -47,7 +47,7 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 
 ## How to use this file
 
-Create a public repository named exactly like your GitHub username and copy this `README.md` there. Replace `<tu-usuario>` in the project links with your actual GitHub username.
+This repository is named exactly like the GitHub username so this `README.md` is rendered on the profile page.
 
 ---
 
