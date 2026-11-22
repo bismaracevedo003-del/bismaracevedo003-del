@@ -30,6 +30,7 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 | [plc-motor-control-vfd](https://github.com/<tu-usuario>/plc-motor-control-vfd) | 4-20 mA VFD motor control with ramps, interlocks, fault latching and web HMI | S7-1200, SCL/Ladder, Python, HTML/JS |
 | [micro850-conveyor-automation](https://github.com/<tu-usuario>/micro850-conveyor-automation) | Sorting conveyor with photoeyes, diverter, counters, jam detection and Modbus TCP server | Micro850, Ladder, Modbus TCP, Python |
 | [industrial-instrumentation-simulator](https://github.com/<tu-usuario>/industrial-instrumentation-simulator) | 4-20 mA transmitter faults, FOPDT process models, PID anti-windup and live tuning comparison | Python, PID, 4-20 mA, Canvas HMI |
+| [industrial-maintenance-cmms](https://github.com/<tu-usuario>/industrial-maintenance-cmms) | Maintenance work orders, PM due list, spare parts, downtime events and OEE dashboard | Python, SQLite, REST API, HTML/JS |
 
 ## What I care about
 
@@ -40,8 +41,8 @@ Siemens S7-1200/TIA Portal · Allen-Bradley Micro850/CCW · Python · Node.js ·
 
 ## Currently building
 
-- OEE/downtime dashboard for industrial maintenance.
 - Electro-pneumatic press automation.
+- IoT energy monitoring with MQTT-style telemetry.
 - More protocol bridges and realistic HMI/SCADA patterns.
 
 ## How to use this file
